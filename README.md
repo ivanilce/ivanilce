@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Front End 🖥️ ...
+- 🔭 Front-End
 
 - 📚 I’m studying Python 🐍...
 
